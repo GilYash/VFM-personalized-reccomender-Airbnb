@@ -1,3 +1,10 @@
+"""
+NOTE:
+This file was originally developed as a Databricks/Jupyter notebook.
+Due to GitHub file size limitations (>25MB caused by stored outputs),
+it is provided here as a Python source export (.py).
+The logic and execution order are identical to the original notebook.
+"""
 # Databricks notebook source
 # MAGIC %md
 # MAGIC ## 1. Load the Airbnb Data
