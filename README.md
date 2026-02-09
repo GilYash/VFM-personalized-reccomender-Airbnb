@@ -22,7 +22,7 @@ This work was developed as part of the **Data Collection & Management Lab (00940
 
 1. Clone the repository.
 2. Open the notebooks in **Databricks** (recommended) or a local Spark environment.
-3. Run notebooks **in order (Stage 1 -> Stage 2 -> Main notebook)**.
+3. Run notebooks **in order (Stage 1 & 2 to create the datasets -> Main notebook to use the UI)**.
 4. Raw data loading paths are documented in the notebooks.
 
 > **Note:** Raw datasets are **not included** in this repository due to size and licensing constraints.
