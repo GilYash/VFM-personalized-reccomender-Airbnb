@@ -14,21 +14,23 @@ This work was developed as part of the **Data Collection & Management Lab (00940
 
 ## Repository Structure
 
+```
 VFM-personalized-recommender-Airbnb/
 │
 ├── notebooks/
-│   ├── Airbnb_loading_&_Filtration_(Stage_1).ipynb
-│   ├── Airbnb_Feature_Engineering_(Stage_2).ipynb
-│   ├── OSM_POI_Processing_and_Categorization.ipynb
-│   ├── VFM_Scoring_and_Evaluation.py
+│   ├── Airbnb_loading_&_Filtration_(Stage_1).py
+│   ├── OSM_final_colleciton_and_POI_categorization_(Stage_2).ipynb
+│   ├── Project_UI_(Main_Notebook).ipynb
+│   ├── VFM_Evaluations_(Tests_and_Plots).ipynb
 │   └── .gitkeep
 │
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+```
 
-
-
+Notebook 1 was exported as .py file due to GitHub file size limitations.
+The full runnable versions are available in Databricks and follow the same execution order.
 
 ---
 
