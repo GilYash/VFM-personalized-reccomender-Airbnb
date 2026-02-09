@@ -38,7 +38,7 @@ The full runnable versions are available in Databricks and follow the same execu
 
 1. Clone the repository.
 2. Open the notebooks in **Databricks** (recommended) or a local Spark environment.
-3. Run notebooks **in order (Stage 1 & 2 to create the datasets -> Main notebook to use the UI)**.
+3. Run notebooks **named Stage 1 & 2 in order to create the final dataset -> run notebook named Main notebook to use the project UI)**.
 4. Raw data loading paths are documented in the notebooks.
 
 > **Note:** Raw datasets are **not included** in this repository due to size and licensing constraints.
