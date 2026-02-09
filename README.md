@@ -14,6 +14,20 @@ This work was developed as part of the **Data Collection & Management Lab (00940
 
 ## Repository Structure
 
+VFM-personalized-recommender-Airbnb/
+│
+├── notebooks/
+│   ├── Airbnb_loading_&_Filtration_(Stage_1).ipynb
+│   ├── Airbnb_Feature_Engineering_(Stage_2).ipynb
+│   ├── OSM_POI_Processing_and_Categorization.ipynb
+│   ├── VFM_Scoring_and_Evaluation.py
+│   └── .gitkeep
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+
+
 
 
 ---
